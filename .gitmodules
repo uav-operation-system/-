@@ -1,3 +1,6 @@
 [submodule "UAV_motionplanner"]
 	path = UAV_motionplanner
 	url = https://github.com/uav-operation-system/UAV_motionplanner
+[submodule "VINS-Fusion"]
+	path = VINS-Fusion
+	url = https://github.com/uav-operation-system/VINS-Fusion
